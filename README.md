@@ -9,9 +9,9 @@ This script provides a graphical user interface (GUI) to scan a selected folder,
 ### How to Use
 
 1.  **Run the script:**
-    Execute the `scan file claude 3.5.py` file using Python.
+    Execute the `scanfolder.py` file using Python.
     ```bash
-    python "scan file claude 3.5.py"
+    python "scanfolder.py"
     ```
 
 2.  **Select a Folder:**
@@ -42,9 +42,9 @@ You can customize the script's behavior by editing the `config.json` file:
 ### Cách sử dụng
 
 1.  **Chạy script:**
-    Thực thi tệp `scan file claude 3.5.py` bằng Python.
+    Thực thi tệp `scanfolder.py` bằng Python.
     ```bash
-    python "scan file claude 3.5.py"
+    python "scanfolder.py"
     ```
 
 2.  **Chọn Thư mục:**
