@@ -1,0 +1,6 @@
+{
+  "log_file": "folder_scan.log",
+  "max_files_to_scan": 1000,
+  "generate_tree_limit": 100,
+  "scan_hidden_files": true
+}
